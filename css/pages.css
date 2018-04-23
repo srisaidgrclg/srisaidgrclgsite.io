@@ -12,6 +12,18 @@ a:hover, a:active {
     background-color: #510758;
 }
 
-body {background-color: #430F48;}
+body {background-color: white;}
 .toptext{margin-top: 25px;}
 
+.centrecolor{
+	align : center;
+	background-color: #FFE4E1;
+}
+h2{
+	color: #C71585;
+	text-align: center; 
+	font: 20px arial, sans-serif;
+	padding: 1px 0.2px;
+	text-decoration: none;
+	LINE-HEIGHT:2px;	
+}
