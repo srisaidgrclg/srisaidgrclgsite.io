@@ -1,5 +1,5 @@
 a:link, a:visited {
-    background-color: #B019BE;
+    background-color: DarkBlue;
     color: white;
     padding: 14px 25px;
     text-align: center; 
@@ -9,16 +9,16 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: #510758;
+    background-color: DodgerBlue;
 }
 
-body {background-color: #DEB887
+body {background-color: LightSkyBlue 
 }
 .toptext{margin-top: 25px;}
 
 .centrecolor{
 	align : center;
-	background-color: Aqua
+	background-color: white;
 }
 h2{
 	color: white;
