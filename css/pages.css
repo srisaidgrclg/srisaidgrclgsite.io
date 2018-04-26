@@ -1,6 +1,6 @@
 a:link, a:visited {
     background-color: DarkBlue;
-    color: white;
+    color: yellow;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -22,7 +22,7 @@ body {background-color: LightSkyBlue
 	background-color: white;
 }
 h2{
-	color: white;
+	color: DarkBlue;
 	text-align: center; 
 	font: 20px arial, sans-serif;
 	padding: 1px 0.2px;
@@ -31,4 +31,49 @@ h2{
 }
 .imageSize{
 	
+}
+.roundedimage {
+  border-radius: 50%;
+}
+.topStrip{
+	background-color: DarkBlue;	 
+}
+.latestUpdatesText{
+	 background-color: DarkBlue;
+	 color: yellow;
+	 font: 15px arial, sans-serif;
+}
+.logo{
+	 border-left: 0px solid ;
+    border-right: 0px solid ;
+	background-color: LightSkyBlue;
+	color: yellow;
+	font: 25px arial, sans-serif;
+}
+.logoCollegeText{
+	
+	text-align: center; 
+	vertical-align: top;
+	color: yellow;
+	font: 45px arial, sans-serif;
+	text-shadow: 2px 2px black;
+	line-height: 0px;
+}
+.logoAffiliated{
+	
+	text-align: center;
+	vertical-align: top; 
+	color: yellow;
+	font: 25px arial, sans-serif;
+	text-shadow: 2px 2px black;
+	line-height: 0px;
+}
+
+.princifounder{
+	text-align: center;
+	vertical-align: top; 
+	color: black;
+	font: 25px arial, sans-serif;
+	text-shadow: 0.5px 0.5px black;
+	line-height: 1px;
 }
