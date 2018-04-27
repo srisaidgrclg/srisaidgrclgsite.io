@@ -19,7 +19,8 @@ body {background-color: LightSkyBlue
 
 .centrecolor{
 	align : center;
-	background-color: white;
+    background-color: white ;
+	/* background: linear-gradient(to right, Khaki   ,BurlyWood  );  */
 }
 h2{
 	color: DarkBlue;
@@ -36,17 +37,24 @@ h2{
   border-radius: 50%;
 }
 .topStrip{
-	background-color: DarkBlue;	 
+	background: linear-gradient(to right, red , yellow); 
 }
 .latestUpdatesText{
-	 background-color: DarkBlue;
+	background: linear-gradient(to right, darkBlue , aqua); 
 	 color: yellow;
 	 font: 15px arial, sans-serif;
+}
+.logoBox{
+	border-left: 0px solid ;
+    border-right: 0px solid ;
+	background-color: DarkBlue;
+	color: yellow;
+	font: 25px arial, sans-serif;
 }
 .logo{
 	 border-left: 0px solid ;
     border-right: 0px solid ;
-	background-color: LightSkyBlue;
+	background: linear-gradient(to right, DarkBlue , aqua);
 	color: yellow;
 	font: 25px arial, sans-serif;
 }
@@ -56,7 +64,7 @@ h2{
 	vertical-align: top;
 	color: yellow;
 	font: 45px arial, sans-serif;
-	text-shadow: 2px 2px black;
+	text-shadow: 1px 1px black;
 	line-height: 0px;
 }
 .logoAffiliated{
@@ -65,7 +73,7 @@ h2{
 	vertical-align: top; 
 	color: yellow;
 	font: 25px arial, sans-serif;
-	text-shadow: 2px 2px black;
+	text-shadow: 1px 1px black;
 	line-height: 0px;
 }
 
@@ -96,4 +104,27 @@ h2{
 	line-height: 7px;
 	padding-left: 10px;
 	
+}
+.crsofr{
+	text-align: left;
+	
+	color: black;
+	font: 20px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+}
+.crsofr1{
+	text-align: left;
+	
+	color: black;
+	font: 18px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+}
+.crsofrhdg{
+	text-align: left;
+	color: black;
+	font: 20px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
 }
