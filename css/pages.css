@@ -77,3 +77,23 @@ h2{
 	text-shadow: 0.5px 0.5px black;
 	line-height: 1px;
 }
+
+.cnctaddr{
+	text-align: left;
+	vertical-align: top; 
+	color: black;
+	font: 25px arial, sans-serif;
+	line-height: 8px;
+	padding-left: 5px;
+	
+}
+
+.cnctaddrdt{
+	text-align: left;
+	vertical-align: top; 
+	color: black;
+	font: 18px arial, sans-serif;
+	line-height: 7px;
+	padding-left: 10px;
+	
+}
