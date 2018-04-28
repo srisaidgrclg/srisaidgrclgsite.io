@@ -19,9 +19,10 @@ body {background-color: LightSkyBlue
 
 .centrecolor{
 	align : center;
-    background-color: white ;
+    background-color: white    ;
 	/* background: linear-gradient(to right, Khaki   ,BurlyWood  );  */
 }
+
 h2{
 	color: DarkBlue;
 	text-align: center; 
@@ -37,10 +38,12 @@ h2{
   border-radius: 50%;
 }
 .topStrip{
-	background: linear-gradient(to right, red , yellow); 
+	background: linear-gradient(to right, red , yellow);
+	/* background-color: darkBlue ; */
+	
 }
 .latestUpdatesText{
-	background: linear-gradient(to right, darkBlue , aqua); 
+	background: linear-gradient(to right, darkBlue , DodgerBlue); 
 	 color: yellow;
 	 font: 15px arial, sans-serif;
 }
@@ -54,7 +57,7 @@ h2{
 .logo{
 	 border-left: 0px solid ;
     border-right: 0px solid ;
-	background: linear-gradient(to right, DarkBlue , aqua);
+	background: linear-gradient(to right, DarkBlue , DodgerBlue);
 	color: yellow;
 	font: 25px arial, sans-serif;
 }
@@ -103,28 +106,50 @@ h2{
 	font: 18px arial, sans-serif;
 	line-height: 7px;
 	padding-left: 10px;
+
+}
+.cnctaddrdt1{
+	text-align: left;
+	vertical-align: top; 
+	color: black;
+	font: 20px arial, sans-serif;
+	line-height: 7px;
+	padding-left: 10px;
 	
 }
 .crsofr{
-	text-align: left;
-	
-	color: black;
-	font: 20px arial, sans-serif;
-	line-height: 22px;
-	padding-left: 10px;
-}
-.crsofr1{
-	text-align: left;
-	
+	text-align: left;	
 	color: black;
 	font: 18px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+	font-weight :bold;
+	
+}
+.crsofr1{
+	text-align: left;	
+	color: black;
+	font: 15px arial, sans-serif;
 	line-height: 22px;
 	padding-left: 10px;
 }
 .crsofrhdg{
 	text-align: left;
-	color: black;
-	font: 20px arial, sans-serif;
+	color: yellow	;
+	font: 18px arial, sans-serif;
 	line-height: 22px;
 	padding-left: 10px;
+	margin-top:10px;
+	line-height: 130%;
+	background: linear-gradient(to right, darkBlue , DodgerBlue); 
+}
+
+.crsofrhdgimg{
+	text-align: left;
+	color: yellow	;
+	font: 18px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+	background: linear-gradient(to right, darkBlue , DodgerBlue); 
+	
 }
