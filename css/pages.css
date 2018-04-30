@@ -11,6 +11,9 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: DodgerBlue;
 }
+a.focus{
+	 background-color: DodgerBlue;
+}
 
 
 body {background-color: LightSkyBlue 
