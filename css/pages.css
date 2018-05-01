@@ -39,7 +39,10 @@ h2{
 }
 .roundedimage {
   border-radius: 50%;
+  float: left;
+  margin: 0 20px 20px 0;
 }
+
 .topStrip{
 	background: linear-gradient(to right, red , yellow);
 	/* background-color: darkBlue ; */
@@ -145,6 +148,7 @@ h2{
 	margin-top:10px;
 	line-height: 130%;
 	background: linear-gradient(to right, darkBlue , DodgerBlue); 
+	text-transform: uppercase;
 }
 
 .crsofrhdgimg{
@@ -154,5 +158,26 @@ h2{
 	line-height: 22px;
 	padding-left: 10px;
 	background: linear-gradient(to right, darkBlue , DodgerBlue); 
-	
+	text-transform: uppercase;
+}
+
+.cnctaddrdtabt{	
+	vertical-align: top; 
+	color: black;
+	font: 15px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+	text-align: justify;
+    text-indent: 2em;
+
+}
+.cnctaddrdtabtquote{	
+	vertical-align: top; 
+	color: black;
+	font: 18px arial, sans-serif;
+	line-height: 22px;
+	padding-left: 10px;
+	text-align: justify;
+    text-indent: 2em;
+
 }
