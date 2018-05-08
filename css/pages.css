@@ -16,7 +16,7 @@ a.focus{
 }
 
 
-body {background-color: lightBlue; 
+body {background-color: LightSkyBlue 
 }
 .toptext{margin-top: 25px;}
 
@@ -75,6 +75,7 @@ h2{
 	font: 45px arial, sans-serif;
 	text-shadow: 1px 1px black;
 	line-height: 0px;
+	text-transform: uppercase;
 }
 .logoAffiliated{
 	
